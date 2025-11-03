@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "S:\\university\\semester_8\\PRN232\\asginment\\code_demo\\assignment_be\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{95AB005C-EE2F-4386-A46F-7F782133856B}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\asginment\\code_demo\\assignment_be\\webapi\\controllers\\systemaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AB005C-EE2F-4386-A46F-7F782133856B}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\systemaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{95AB005C-EE2F-4386-A46F-7F782133856B}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\asginment\\code_demo\\assignment_be\\webapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95AB005C-EE2F-4386-A46F-7F782133856B}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AB005C-EE2F-4386-A46F-7F782133856B}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\asginment\\code_demo\\assignment_be\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95AB005C-EE2F-4386-A46F-7F782133856B}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AB005C-EE2F-4386-A46F-7F782133856B}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\asginment\\code_demo\\assignment_be\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AB005C-EE2F-4386-A46F-7F782133856B}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95AB005C-EE2F-4386-A46F-7F782133856B}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\asginment\\code_demo\\assignment_be\\webapi\\controllers\\newsarticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,24 +27,12 @@
       "RelativeMoniker": "D:0:0:{95AB005C-EE2F-4386-A46F-7F782133856B}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95AB005C-EE2F-4386-A46F-7F782133856B}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\asginment\\code_demo\\assignment_be\\webapi\\controllers\\systemaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95AB005C-EE2F-4386-A46F-7F782133856B}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\systemaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{95AB005C-EE2F-4386-A46F-7F782133856B}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\asginment\\code_demo\\assignment_be\\webapi\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95AB005C-EE2F-4386-A46F-7F782133856B}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95AB005C-EE2F-4386-A46F-7F782133856B}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\asginment\\code_demo\\assignment_be\\webapi\\customresponse\\responsemessageextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95AB005C-EE2F-4386-A46F-7F782133856B}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\customresponse\\responsemessageextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95AB005C-EE2F-4386-A46F-7F782133856B}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\asginment\\code_demo\\assignment_be\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95AB005C-EE2F-4386-A46F-7F782133856B}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95AB005C-EE2F-4386-A46F-7F782133856B}|WebAPI\\WebAPI.csproj|s:\\university\\semester_8\\prn232\\asginment\\code_demo\\assignment_be\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{95AB005C-EE2F-4386-A46F-7F782133856B}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9028FA4F-7D5E-4DB0-AF44-172AF7660604}|Services\\Services.csproj|s:\\university\\semester_8\\prn232\\asginment\\code_demo\\assignment_be\\services\\serviceimplement\\newsarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 26,
+          "SelectedChildIndex": 31,
           "Children": [
             {
               "$type": "Bookmark",
@@ -158,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ResponseMessageExtensions.cs",
               "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\asginment\\code_demo\\assignment_be\\WebAPI\\CustomResponse\\ResponseMessageExtensions.cs",
               "RelativeDocumentMoniker": "WebAPI\\CustomResponse\\ResponseMessageExtensions.cs",
@@ -166,12 +166,11 @@
               "RelativeToolTip": "WebAPI\\CustomResponse\\ResponseMessageExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T02:56:25.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T02:56:25.955Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\asginment\\code_demo\\assignment_be\\WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "WebAPI\\Program.cs",
@@ -183,19 +182,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\asginment\\code_demo\\assignment_be\\WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
               "ToolTip": "S:\\university\\semester_8\\PRN232\\asginment\\code_demo\\assignment_be\\WebAPI\\appsettings.json",
               "RelativeToolTip": "WebAPI\\appsettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-11-02T11:07:55.497Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "TagController.cs",
               "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\asginment\\code_demo\\assignment_be\\WebAPI\\Controllers\\TagController.cs",
               "RelativeDocumentMoniker": "WebAPI\\Controllers\\TagController.cs",
@@ -203,8 +202,7 @@
               "RelativeToolTip": "WebAPI\\Controllers\\TagController.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAqwDsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T17:34:22.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T17:34:22.085Z"
             },
             {
               "$type": "Document",
@@ -280,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "NewsArticleController.cs",
               "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\asginment\\code_demo\\assignment_be\\WebAPI\\Controllers\\NewsArticleController.cs",
               "RelativeDocumentMoniker": "WebAPI\\Controllers\\NewsArticleController.cs",
@@ -288,21 +286,19 @@
               "RelativeToolTip": "WebAPI\\Controllers\\NewsArticleController.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAiwMMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T15:25:23.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T15:25:23.603Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\asginment\\code_demo\\assignment_be\\WebAPI\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "WebAPI\\Controllers\\CategoryController.cs",
               "ToolTip": "S:\\university\\semester_8\\PRN232\\asginment\\code_demo\\assignment_be\\WebAPI\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "WebAPI\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAYwJMAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwC4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T15:14:32.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T15:14:32.505Z"
             },
             {
               "$type": "Document",
@@ -354,20 +350,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "SystemAccountController.cs",
               "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\asginment\\code_demo\\assignment_be\\WebAPI\\Controllers\\SystemAccountController.cs",
               "RelativeDocumentMoniker": "WebAPI\\Controllers\\SystemAccountController.cs",
               "ToolTip": "S:\\university\\semester_8\\PRN232\\asginment\\code_demo\\assignment_be\\WebAPI\\Controllers\\SystemAccountController.cs",
               "RelativeToolTip": "WebAPI\\Controllers\\SystemAccountController.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAkwBYAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAowBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-01T14:14:26.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AuthController.cs",
               "DocumentMoniker": "S:\\university\\semester_8\\PRN232\\asginment\\code_demo\\assignment_be\\WebAPI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "WebAPI\\Controllers\\AuthController.cs",
@@ -375,8 +371,7 @@
               "RelativeToolTip": "WebAPI\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T14:14:11.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T14:14:11.491Z"
             },
             {
               "$type": "Document",
