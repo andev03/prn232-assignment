@@ -40,7 +40,7 @@ namespace WebAPI.Controllers
         }
 
         [HttpPost]
-        //[Authorize(Roles = "1")] 
+        [Authorize(Roles = "1")]
         public async Task<IActionResult> CreateTag([FromBody] CreateTagDto tagDto)
         {
             try
@@ -57,7 +57,7 @@ namespace WebAPI.Controllers
         }
 
         [HttpPut("{id}")]
-        //[Authorize(Roles = "1")]
+        [Authorize(Roles = "1")]
         public async Task<IActionResult> UpdateTag(int id, [FromBody] CreateTagDto tagDto)
         {
             try
@@ -76,7 +76,7 @@ namespace WebAPI.Controllers
         }
 
         [HttpDelete("{id}")]
-        //[Authorize(Roles = "1")]
+        [Authorize(Roles = "1")]
         public async Task<IActionResult> DeleteTag(int id)
         {
             try

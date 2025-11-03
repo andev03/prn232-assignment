@@ -84,7 +84,7 @@ namespace WebAPI.Controllers
         }
 
         [HttpPost]
-        //[Authorize(Roles = "1")]
+        [Authorize(Roles = "1")]
         public async Task<IActionResult> CreateArticle([FromBody] CreateNewsArticleDto articleDto)
         {
             try
@@ -115,7 +115,7 @@ namespace WebAPI.Controllers
         }
 
         [HttpPut("{id}")]
-        //[Authorize(Roles = "1")]
+        [Authorize(Roles = "1")]
         public async Task<IActionResult> UpdateArticle(int id, [FromBody] CreateNewsArticleDto articleDto)
         {
             try
@@ -154,7 +154,7 @@ namespace WebAPI.Controllers
         }
 
         [HttpDelete("{id}")]
-        //[Authorize(Roles = "1")]
+        [Authorize(Roles = "1")]
         public async Task<IActionResult> DeleteArticle(int id)
         {
             try
@@ -193,7 +193,7 @@ namespace WebAPI.Controllers
         }
 
         [HttpGet("Account")]
-        //[Authorize(Roles = "1")]
+        [AllowAnonymous]
         public async Task<IActionResult> GetArticlesByAccountId()
         {
             var articles = await _articleService.GetArticlesByAccountIdAsync();

@@ -75,7 +75,7 @@ namespace WebAPI.Controllers
         }
 
         [HttpPost]
-        //[Authorize(Roles = "1")]
+        [Authorize(Roles = "1")]
         public async Task<IActionResult> CreateCategory([FromBody] CreateCategoryDto categoryDto)
         {
             try
@@ -106,7 +106,7 @@ namespace WebAPI.Controllers
         }
 
         [HttpPut("{id}")]
-        //[Authorize(Roles = "1")]
+        [Authorize(Roles = "1")]
         public async Task<IActionResult> UpdateCategory(int id, [FromBody] CreateCategoryDto categoryDto)
         {
             try
@@ -145,7 +145,7 @@ namespace WebAPI.Controllers
         }
 
         [HttpDelete("{id}")]
-        //[Authorize(Roles = "1")]
+        [Authorize(Roles = "1")]
         public async Task<IActionResult> DeleteCategory(int id)
         {
             try

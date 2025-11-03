@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Repository.Models;
 using Services.IService;
 using System;
@@ -19,6 +20,7 @@ public class SystemAccountsController : ControllerBase
     }
 
     [HttpGet]
+    [Authorize(Roles = "0")]
     public async Task<IActionResult> GetAll()
     {
         try
@@ -40,6 +42,7 @@ public class SystemAccountsController : ControllerBase
     }
 
     [HttpPost]
+    [Authorize(Roles = "0")]
     public async Task<IActionResult> Create(AccountDto accountDto)
     {
         try
@@ -70,6 +73,7 @@ public class SystemAccountsController : ControllerBase
     }
 
     [HttpPut("{id}")]
+    [Authorize(Roles = "0")]
     public async Task<IActionResult> Update(int id, [FromBody] AccountDto account)
     {
         try
@@ -108,6 +112,7 @@ public class SystemAccountsController : ControllerBase
     }
 
     [HttpDelete("{id}")]
+    [Authorize(Roles = "0")]
     public async Task<IActionResult> Delete(int id)
     {
         try

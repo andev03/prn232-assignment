@@ -8,6 +8,7 @@ using Repository.Models;
 using Repository.RepositoryImplement;
 using Services.IService;
 using Services.ServiceImplement;
+using System.IdentityModel.Tokens.Jwt;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -96,7 +97,6 @@ builder.Services.AddAuthentication(options =>
         ValidAudience = builder.Configuration["Jwt:Audience"],
         ValidateLifetime = true,
         ClockSkew = TimeSpan.Zero,
-        RoleClaimType = "role",
         NameClaimType = "nameid"
     };
 
